@@ -16,6 +16,9 @@ var socialtags = [{
     img: "img/whatsapp.png",
     link: "https://wa.me/+201000922522"
 }, {
+    img: "img/mail.png",
+    link: "mailto:fadyhanna@aucegypt.edu"
+}, {
     img: "img/download.png",
     link: "resume/resume.pdf"
 }]
