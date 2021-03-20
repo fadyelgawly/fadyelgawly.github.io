@@ -11,7 +11,7 @@ var socialtags = [{
     link: "https://github.com/fadyelgawly"
 }, {
     img: "img/linkedin.png",
-    link: "https://www.linkedin.com/in/fady-hanna-68364824/"
+    link: "https://www.linkedin.com/in/fgawly/"
 }, {
     img: "img/whatsapp.png",
     link: "https://wa.me/+201000922522"
