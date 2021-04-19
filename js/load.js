@@ -20,7 +20,7 @@ var socialtags = [{
     link: "mailto:fadyhanna@aucegypt.edu"
 }, {
     img: "img/download.png",
-    link: "resume/resume.pdf"
+    link: "resume.pdf"
 }]
 
 function loadSocialIcons() {
@@ -49,11 +49,7 @@ function dayNightToggle() {
 function checkDayNight() {
     var check = window.localStorage.getItem('light-mode');
     var element = document.body;
-    if (check == "light") {
-        element.classList.add("light-mode");
-    } else {
-       // element.classList.remove("light-mode");
-    }
+    element.classList.add("light-mode");
 }
 
 checkDayNight()
